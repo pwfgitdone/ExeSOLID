@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="5 - DIP\" />
+    <Folder Include="5 - DIP\5.1 - Violacao\" />
   </ItemGroup>
 
   <ItemGroup>

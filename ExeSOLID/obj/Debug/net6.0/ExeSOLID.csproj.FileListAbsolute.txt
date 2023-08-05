@@ -1,0 +1,12 @@
+C:\Users\Samsung\source\repos\ExeSOLID\ExeSOLID\bin\Debug\net6.0\ExeSOLID.deps.json
+C:\Users\Samsung\source\repos\ExeSOLID\ExeSOLID\bin\Debug\net6.0\ExeSOLID.dll
+C:\Users\Samsung\source\repos\ExeSOLID\ExeSOLID\bin\Debug\net6.0\ExeSOLID.pdb
+C:\Users\Samsung\source\repos\ExeSOLID\ExeSOLID\obj\Debug\net6.0\ExeSOLID.csproj.AssemblyReference.cache
+C:\Users\Samsung\source\repos\ExeSOLID\ExeSOLID\obj\Debug\net6.0\ExeSOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\source\repos\ExeSOLID\ExeSOLID\obj\Debug\net6.0\ExeSOLID.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\ExeSOLID\ExeSOLID\obj\Debug\net6.0\ExeSOLID.AssemblyInfo.cs
+C:\Users\Samsung\source\repos\ExeSOLID\ExeSOLID\obj\Debug\net6.0\ExeSOLID.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\ExeSOLID\ExeSOLID\obj\Debug\net6.0\ExeSOLID.dll
+C:\Users\Samsung\source\repos\ExeSOLID\ExeSOLID\obj\Debug\net6.0\refint\ExeSOLID.dll
+C:\Users\Samsung\source\repos\ExeSOLID\ExeSOLID\obj\Debug\net6.0\ExeSOLID.pdb
+C:\Users\Samsung\source\repos\ExeSOLID\ExeSOLID\obj\Debug\net6.0\ref\ExeSOLID.dll

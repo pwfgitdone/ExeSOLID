@@ -7,11 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="1 - SRP\1.2 - Solucao\" />
     <Folder Include="2 - OCP\" />
     <Folder Include="3 - LSP\" />
     <Folder Include="4 - ISP\" />
     <Folder Include="5 - DIP\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
   </ItemGroup>
 
 </Project>
